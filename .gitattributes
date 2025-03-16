@@ -4,3 +4,5 @@
 *.c linguist-detectable=true
 *.h linguist-detectable=true
 *.md linguist-documentation
+
+*.html linguist-vendored
