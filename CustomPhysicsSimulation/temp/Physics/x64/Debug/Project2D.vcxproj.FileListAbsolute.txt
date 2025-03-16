@@ -1,0 +1,7 @@
+D:\AIE Year 2\Term 1\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe
+D:\AIE Year 2\Term 1\Tutorial\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe
+F:\AIE Year 2\Term 1\Physics For Games\Tutorial\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe
+D:\AIE Year 2\Term 1\Physics For Games\Collision Detection\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe
+F:\AIE Year 2\Term 1\Physics For Games\Collision Resolution\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe
+F:\AIE Year 2\Term 1\Assessment 1\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe
+D:\AIE Year 2\Term 1\Assessment 1\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe

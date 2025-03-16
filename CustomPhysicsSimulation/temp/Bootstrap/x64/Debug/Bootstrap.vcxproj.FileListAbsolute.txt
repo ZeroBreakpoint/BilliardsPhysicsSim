@@ -1,0 +1,8 @@
+D:\AIE Year 2\Term 1\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib
+D:\AIE Year 2\Term 1\Tutorial\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib
+F:\AIE Year 2\Term 1\Physics For Games\Tutorial\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib
+D:\AIE Year 2\Term 1\Physics For Games\Collision Detection\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib
+F:\AIE Year 2\Term 1\Physics For Games\Collision Resolution\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib
+F:\AIE Year 2\Term 1\Assessment 1\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib
+D:\AIE Year 2\Term 1\Assessment 1\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib
+D:\AIE Year 2\Term 1\Package to exe attempt\aieBootstrap-master\temp\Bootstrap\x64\Debug\Bootstrap.lib

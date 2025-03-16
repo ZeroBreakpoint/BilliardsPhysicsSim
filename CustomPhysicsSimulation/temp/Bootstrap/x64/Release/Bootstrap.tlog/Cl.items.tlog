@@ -1,0 +1,10 @@
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\dependencies\imgui\imgui.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\imgui.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\dependencies\imgui\imgui_draw.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\imgui_draw.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\Application.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\Application.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\Font.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\Font.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\Gizmos.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\Gizmos.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\gl_core_4_4.c;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\gl_core_4_4.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\imgui_glfw3.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\imgui_glfw3.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\Input.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\Input.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\Renderer2D.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\Renderer2D.obj
+C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\bootstrap\Texture.cpp;C:\GitHub\BilliardsPhysicsSim\CustomPhysicsSimulation\temp\Bootstrap\x64\Release\Texture.obj

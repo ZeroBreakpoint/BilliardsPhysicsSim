@@ -1,0 +1,9 @@
+﻿  PhysicsApp.cpp
+  main.cpp
+  PhysicsScene.cpp
+  Plane.cpp
+  RigidBody.cpp
+  Sphere.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project2D.vcxproj -> D:\AIE Year 2\Term 1\Assessment 1\aieBootstrap-master\temp\Physics\x64\Debug\Physics.exe
