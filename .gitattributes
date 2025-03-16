@@ -6,3 +6,5 @@
 *.md linguist-documentation
 
 *.html linguist-vendored
+*.c linguist-detectable=false
+
