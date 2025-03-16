@@ -1,2 +1,2 @@
 # BilliardsPhysicsSim
-A custom-built 2D billiards table simulation featuring a physics engine written from scratch in C++
+A custom-built 2D billiards table simulation featuring a physics engine written from scratch in C++.  This project showcases static and dynamic rigid body interactions, force application and collision responses without relying on third-party physics libraries.  Players can rotate the pool cue using the 'A' and 'D' keys and control shot power with a hold-and-release left-click mechanic.  Built as part of an assessment for physics simulation in real-time applications.
