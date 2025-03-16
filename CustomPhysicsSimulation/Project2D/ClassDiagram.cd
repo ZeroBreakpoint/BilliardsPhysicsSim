@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PhysicsApp">
+    <Position X="13" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CBAQB6hAYAgAAAABAEMAAEEgQAAUAghAAAgAAgIEAAQ=</HashCode>
+      <FileName>PhysicsApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsObject">
+    <Position X="4.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAoAAAIAAAAAAAAAAAAEAgAAAAAAAAA=</HashCode>
+      <FileName>PhysicsScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsScene">
+    <Position X="16.5" Y="0.5" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Typedef Name="PhysicsScene::fn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PhysicsScene.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACCAAQAUAQAgAgAAAIAAAACAICIIAAIBAEAAAgEAAA=</HashCode>
+      <FileName>PhysicsScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plane">
+    <Position X="1" Y="3.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAgAIgIAAgAAIAQAAAAAAAIABEAAAAA=</HashCode>
+      <FileName>Plane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rigidbody">
+    <Position X="6" Y="3.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAACoAABACAABAAAAAAAAQAGAAAAEAQQAABAAAAACAA=</HashCode>
+      <FileName>RigidBody.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sphere">
+    <Position X="6.5" Y="8.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAIBAAAAAYAAAACAAQAAAEACAAAAAAIAAA=</HashCode>
+      <FileName>Sphere.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ShapeType">
+    <Position X="9.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAIAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicsScene.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
