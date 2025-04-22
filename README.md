@@ -11,12 +11,12 @@ This project is my 2D physics simulation of a billiards (pool) game built entire
 - Collision System: Implements elastic collisions between spheres, boundary checks, and plane interactions.
 - Pocketing System: Balls falling into pocket areas are either removed (coloured) or reset (white cue ball).
 - Cue Mechanics: The cue stick visually updates its angle and position based on user input and follows through on impact.
-- Graphical Output: Uses Gizmos from the AIE framework for rendering 2D visuals including balls, boundaries, cue stick, and pockets.
+- Graphical Output: Uses Gizmos from the provided AIE framework for rendering 2D visuals including balls, boundaries, cue stick and pockets.
 
 **Controls**
 
-A/D — Rotate the cue stick left/right
+A/D — Rotate the cue stick left/right.
 
-Left Mouse Button — Hold to charge the cue stick, release to strike
+Left Mouse Button — Hold to charge the cue stick, release to strike.
 
-ESC — Quit the application
+ESC — Quit the application.
