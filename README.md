@@ -16,5 +16,7 @@ This project is my 2D physics simulation of a billiards (pool) game built entire
 **Controls**
 
 A/D — Rotate the cue stick left/right
+
 Left Mouse Button — Hold to charge the cue stick, release to strike
+
 ESC — Quit the application
